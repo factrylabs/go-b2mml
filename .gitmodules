@@ -1,0 +1,3 @@
+[submodule "lib/B2MML.NET"]
+	path = lib/B2MML.NET
+	url = https://github.com/jpdillingham/B2MML.NET
